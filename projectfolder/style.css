@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&display=swap');
+p {
+  font-family: "Commissioner", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "FLAR" 0,
+    "VOLM" 0;
+}
+nav a:hover {
+    color:#FFB400
+}
+body {
+    background-color:#00C8FA 
+    
+}
+h1 {
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(255, 81, 0);
+
+}
+ footer a {
+    text-decoration: none;
+    color: rgb(255, 81, 0);
+}
+p {
+    color:#28ff02
+}
+h3 {
+    color:#FF7800
+}
+h2 {
+    color:#FF7800
+}
+h1 {
+    color:#FFF303
+}
+li.highlight {
+    color:#FFF303
+}
+li.hidden {
+    color:#28ff02
+}
