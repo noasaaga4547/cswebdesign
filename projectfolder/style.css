@@ -19,11 +19,23 @@ body {
 h1 {
     text-align: center;
 }
-nav a {
+nav 
+{
+    background-color: rgb(0, 0, 0);
+    padding: 40px;
+}
+nav a{
+    margin-left: 20px;
+    border: 2px solid rgb(255, 81, 0);
+    
     text-decoration: none;
     color: rgb(255, 81, 0);
+    
 
 }
+/* ul, li{
+    border: 2px solid rgb(255, 81, 0);
+} */
  footer a {
     text-decoration: none;
     color: rgb(255, 81, 0);
